@@ -27,6 +27,3 @@ This Discord bot helps you clone a server, including roles and channels, from on
 If you encounter any bugs in the code or have any errors to report, you can contact me on Discord or create an issue in the [GitHub repository](https://github.com/codewithriza/ServerCloner/issues) for immediate response.
 
 ---
-
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/887532157747212370)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/pyriza)
